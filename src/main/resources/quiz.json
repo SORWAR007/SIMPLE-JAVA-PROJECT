@@ -1,0 +1,82 @@
+[
+  {
+    "answerkey": 1,
+    "option 3": "White box testing",
+    "option 4": " Both a and b",
+    "question": " System testing is a",
+    "option 1": "Black box testing",
+    "option 2": " Grey box testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "SDLC Model",
+    "option 4": "Test Level",
+    "question": "What is the \u201cV\u201d Model?",
+    "option 1": "Test Design Technique",
+    "option 2": "Test Type"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Test planning",
+    "option 4": "Test specification",
+    "question": "Test cases are designed during which of the following stages?",
+    "option 1": "Test recording",
+    "option 2": "Test configuration"
+  },
+  {
+    "answerkey": 1,
+    "option 3": " White box testing",
+    "option 4": "None of the above",
+    "question": " Which is not the other name for structural testing?",
+    "option 1": "Behavioral testing",
+    "option 2": "Glass box testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Black box",
+    "option 4": "Combination of all",
+    "question": "The technique applied for usability testing is:",
+    "option 1": "White box",
+    "option 2": "Grey box"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Statement Testing",
+    "option 4": "Functional Testing",
+    "question": "Which of the following is not a Test Type?",
+    "option 1": "Database Testing",
+    "option 2": " Security Testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": " The analysis of batch programs",
+    "option 4": "The use of black box testing",
+    "question": "Static analysis can be best described as:",
+    "option 1": "",
+    "option 2": "The reviewing of test plans"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "practically possible",
+    "option 4": "impractical and impossible",
+    "question": "Exhaustive testing is:",
+    "option 1": "always possible",
+    "option 2": "impractical but possible"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Big-bang",
+    "option 4": "Functional incrimination",
+    "question": "Which is not a type of incremental testing approach?",
+    "option 1": "Bottom-up",
+    "option 2": "Top-down"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "After programming",
+    "option 4": "After designing",
+    "question": "White-box testing can be started:",
+    "option 1": " After installation",
+    "option 2": "After SRS creation"
+  }
+]
